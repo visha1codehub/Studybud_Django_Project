@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ae%bk^i55lqwerk6*ao4#v^$-o-ny=11re!n!$d+mmyk5_a_$3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.43.244', '127.0.0.1']
+ALLOWED_HOSTS = ['192.168.43.244', '127.0.0.1', 'https://visha1codehub.github.io/Studybud_Django_Project/studybud']
 
 
 # Application definition
